@@ -1,6 +1,6 @@
-body{
-  background-color #ccc;
-  font-family:sans-serif;
+body {
+  background-color: #ccc;
+  font-family: sans-serif;
 }
 
 h1 {
@@ -10,4 +10,4 @@ h1 {
 article {
   font-style: italic;
   color: #666;
-  }
+}
